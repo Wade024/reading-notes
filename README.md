@@ -1,7 +1,11 @@
 # Reading Notes
-Class notes.
+
+Notes for DeltaV coding class
 
 ## Class 102
-Learning how to use Github
+
+* Learning how to use Github
+* 
+
 
 
