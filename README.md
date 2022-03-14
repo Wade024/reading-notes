@@ -4,7 +4,7 @@ Notes for DeltaV coding class
 
 ## Table of Contents
 
-### Lab 01b
+### Classes
 
 [Class 102](https://github.com/Wade024/reading-notes/blob/main/lab-01b.mb)
 
