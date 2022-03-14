@@ -1,7 +1,7 @@
-# reading notes
-reading notes repo
+# Reading Notes
+Class notes.
 
-## second header
-
+## Class 102
+Learning how to use Github
 
 
