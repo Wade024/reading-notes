@@ -8,11 +8,7 @@ Notes for DeltaV coding class
 
 [Class 102](https://github.com/Wade024/reading-notes/blob/main/lab-01b.mb)
 
-## Class 102
 
-* Learning about to use Github
-* Vocabulary
-* 
 
 
 
