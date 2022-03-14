@@ -6,7 +6,7 @@ Notes for DeltaV coding class
 
 ### Lab 01b
 
-[lab 01b](https://duckduckgo.com).
+[Class 102](
 
 ## Class 102
 
