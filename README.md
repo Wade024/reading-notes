@@ -4,9 +4,11 @@ Notes for DeltaV coding class
 
 ## Table of Contents
 
-### Classes
+### Class 102
 
-* [Class 102](https://github.com/Wade024/reading-notes/blob/main/lab-01b.mb)
+* [Reading 1](https://www.markdownguide.org/basic-syntax/)
+* [Reading 2](https://ryanstutorials.net/linuxtutorial/commandline.php)
+* [Reading 3](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 
 
 
