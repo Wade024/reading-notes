@@ -8,7 +8,7 @@ Notes for DeltaV coding class
 
 * [Reading 1](lab-01b.mb)
 * [Reading 2](lab-02b.mb)
-* [Reading 3]()
+* [Reading 3](lab-03b.mb)
 
 
 
